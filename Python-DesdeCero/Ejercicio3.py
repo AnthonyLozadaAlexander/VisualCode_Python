@@ -8,7 +8,7 @@ if num > 3:
 else:
   if num == 3:
     print("--------------------------")
-    print("| El numero es igual a 3 skhidpoahalñsha |")
+    print("| El numero es igual a 3 |") #Cambie la wea a su estado original
     print("--------------------------")
   else:
     print("--------------------------")
