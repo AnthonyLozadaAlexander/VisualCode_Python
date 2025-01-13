@@ -15,3 +15,6 @@ if esPrimo:
   print(f"El numero {num} es primo")
 else:
   print("El numero {num} no es primo")
+  
+
+
