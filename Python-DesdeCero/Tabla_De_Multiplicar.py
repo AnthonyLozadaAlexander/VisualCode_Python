@@ -3,6 +3,6 @@ print("-----------------------------------------------------------")
 
 num = int(input("Ingrese un numero: "))
 
-for i in range (1, 10):
+for i in range (1, 11):
   Calculo = num * i
-  print(f"La tabla del {num} es: {Calculo}")
+  print(f"La tabla del {num} * {i} es: {Calculo}")

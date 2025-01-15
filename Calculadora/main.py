@@ -1,7 +1,7 @@
 from tkinter import*
 
 raiz = Tk()
-raiz.geometry("700x700")
+raiz.geometry("700x700") #? ventana de 700x700
 raiz.title("Calculadora Anthony") #* Titulo de la ventana
 raiz.config(bg = "white") #? Background, color de fondo
 
