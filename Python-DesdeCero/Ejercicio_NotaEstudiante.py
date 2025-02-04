@@ -7,8 +7,10 @@ Calificacion = float(input("Ingrese su calificacion:"))
 
 if Calificacion >= 90:
   print(f"Felicidades!{Nombre} Has Aprobado Con Una Nota Sobresaliente")
+  
 elif Calificacion >= 70 and Calificacion < 90:
   print("Has Aprobado Satisfactoriamente")
+  
 elif Calificacion >= 60 and Calificacion < 70:
   print("Has Aprobado Pero Necesitas Mejorar")
   
