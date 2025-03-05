@@ -6,7 +6,7 @@ Off = False
 print(f"On = {On}")
 print(f"Off = {Off}\n")
 
-print("---------------------------------------------------")
+print("----------------------------------------------------")
 print("Operadores Logicos\n")
 print(f"Operador and: On and Off = {On and Off}")
 print(f"Operador or: On or Off = {On or Off}")
@@ -24,4 +24,4 @@ print(f"Operador Diferente: On != On = {On != On}") #? False
 print(f"Operador Diferente: Off != Off = {Off != Off}") #? False
 print(f"Operador Diferente: not On != Off = {not On != Off}") #? True
 print(f"Operador Diferente: not On != On = {not On != On}\n") #? False
-print("---------------------------------------------------")
+print("----------------------------------------------------")
